@@ -7,6 +7,7 @@ The future is now.  Year after year we hear stories about paper money becoming m
 ### Enter ripplePay.
 The world's first Ripple XRP cryptocurrency mobile transferring system.  Ripple has disrupted the conventional banking system, and will continue to reform and change the world with ripplePay.  What's in your crypto-wallet?
 
+![alt text](https://user-images.githubusercontent.com/26631708/29279787-d04d39b2-80cd-11e7-9867-7a5833ccdf4d.png "Sign Up Page")
 
 ripplePay is a revolutionary mobile app that will implement the following
 ## Features
@@ -14,7 +15,6 @@ ripplePay is a revolutionary mobile app that will implement the following
 * Users can request Ripple funds from other wallets
 * Users can receive Ripple funds from other wallets
 * Users can search for other users
-
 
 
 ## Product Design
